@@ -27,16 +27,10 @@
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mohitbora&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitbora&theme=tokyonight" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitbora&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="display:inline-block;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitbora&theme=tokyonight" alt="GitHub Streak" style="display:inline-block;" />
+</p>
 
 ---
 
