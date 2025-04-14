@@ -28,8 +28,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitbora&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="display:inline-block;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitbora&theme=tokyonight" alt="GitHub Streak" style="display:inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitbora&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitbora&theme=tokyonight" alt="GitHub Streak" height="200"/>
 </p>
 
 ---
