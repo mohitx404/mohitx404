@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Bora</h1>
 <h3 align="center">A passionate Web Developer & Digital Imaging Artist from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw5b3N4c3F4dDB0bDFvaXRyMmtyaW1kMngyMGZ4OGlqd3dndTNxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FeVg8ViEczcxG/giphy.gif" width="280" alt="Coding gif" />
-</p>
-
 ---
 
 - 🔭 I’m currently working on **Web Design Projects**
